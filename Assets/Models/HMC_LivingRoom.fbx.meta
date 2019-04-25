@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 968dfc6b7d9fd2d4ab05228ca26eaaa4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: directionalLight1
+    100004: EntranceStairs
+    100006: Fireplace
+    100008: Floor1
+    100010: //RootNode
+    100012: Stairs
+    100014: Walls
+    100016: WallsBeam_01
+    100018: polySurface1
+    100020: polySurface2
+    100022: polySurface3
+    100024: polySurface4
+    100026: transform1
+    100028: transform2
+    100030: Ceiling1
+    100032: polySurface5
+    100034: Ceiling3
+    100036: Window
+    100038: Window1
+    100040: Walls.001
+    100042: Walls.002
+    100044: Walls.003
+    400000: ambientLight1
+    400002: directionalLight1
+    400004: EntranceStairs
+    400006: Fireplace
+    400008: Floor1
+    400010: //RootNode
+    400012: Stairs
+    400014: Walls
+    400016: WallsBeam_01
+    400018: polySurface1
+    400020: polySurface2
+    400022: polySurface3
+    400024: polySurface4
+    400026: transform1
+    400028: transform2
+    400030: Ceiling1
+    400032: polySurface5
+    400034: Ceiling3
+    400036: Window
+    400038: Window1
+    400040: Walls.001
+    400042: Walls.002
+    400044: Walls.003
+    2100000: Floor
+    2100002: lambert1
+    2100004: WoodBeams
+    2100006: Glass
+    2100008: Ceiling
+    2300000: EntranceStairs
+    2300002: Fireplace
+    2300004: Floor1
+    2300006: Stairs
+    2300008: Walls
+    2300010: WallsBeam_01
+    2300012: polySurface2
+    2300014: polySurface3
+    2300016: polySurface4
+    2300018: Ceiling1
+    2300020: polySurface5
+    2300022: Ceiling3
+    2300024: Window
+    2300026: Window1
+    2300028: Walls.001
+    2300030: Walls.002
+    2300032: Walls.003
+    3300000: EntranceStairs
+    3300002: Fireplace
+    3300004: Floor1
+    3300006: Stairs
+    3300008: Walls
+    3300010: WallsBeam_01
+    3300012: polySurface2
+    3300014: polySurface3
+    3300016: polySurface4
+    3300018: Ceiling1
+    3300020: polySurface5
+    3300022: Ceiling3
+    3300024: Window
+    3300026: Window1
+    3300028: Walls.001
+    3300030: Walls.002
+    3300032: Walls.003
+    4300000: Floor1
+    4300002: EntranceStairs
+    4300004: Walls
+    4300006: WallsBeam_01
+    4300008: Fireplace
+    4300010: Stairs
+    4300012: polySurface3
+    4300014: polySurface4
+    4300016: polySurface2
+    4300018: Ceiling1
+    4300020: polySurface5
+    4300022: Window1
+    4300024: Window
+    4300026: Ceiling3
+    4300028: Walls.003
+    4300030: Walls.002
+    4300032: Walls.001
+    7400000: Take 001
+    7400002: Fireplace|Fireplace|Take 001|BaseLayer
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 8cdb56402f1c0984386a0dd1031e0579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 24e81d195dc6db04e81c2193f712616c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodBeams
+    second: {fileID: 2100000, guid: 18ed129efeae61d4e8e72afd0c49f450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 174e11b1d4ab7594780104e0646b56cc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 75
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
